@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    width: 15px;
+    min-width: 15px;
+    height: 15px;
+    min-height: 15px;
+}
+
+td p {
+    font-size: 4px;
+    margin: 0;
+}
